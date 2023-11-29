@@ -4,7 +4,7 @@ import React from 'react';
 
 const VideoList = () => {
   // Replace the URL with your own website URL
-  const siteUrl = 'http://127.0.0.1:8000';
+  const siteUrl = 'https://video-website-2023.000webhostapp.com/';
 
   return (
     <div>
