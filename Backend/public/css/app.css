@@ -1,0 +1,16 @@
+/* public/css/app.css */
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+.pagination li {
+    flex: 1;
+    text-align: center;
+}
